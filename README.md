@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3D mapping and mountains
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on easy Python projects
-- 📫 How to reach me: wave chocolate and coffee
+- 📫 How to reach me: with tact
 
 <!---
 Padawan-Mntn/Padawan-Mntn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
