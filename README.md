@@ -4,7 +4,7 @@ Hello!
 
 🔭 I am looking for employment opportunities in earth data analysis 
 
-🌱 I am passionate about mountains
+🌱🏔️ I am passionate about mountains
 
 📫 How to reach me: ... https://www.linkedin.com/in/mariegeai/
 
