@@ -8,7 +8,7 @@ Hello!
 
 📫 How to reach me: ... https://www.linkedin.com/in/mariegeai/
 
-🚀 Brand new graduate from the Le Wagon data science bootcamp
+🚀 Recent graduate of Le Wagon data science bootcamp
 
 
 
